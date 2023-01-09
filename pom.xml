@@ -12,6 +12,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.9.1</version>
+      <version>3.6.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
